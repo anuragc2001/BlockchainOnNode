@@ -14,7 +14,7 @@ git clone https://github.com/anuragc2001/BlockchainOnNode.git
 Install dependencies:
 
 ```
-cd blockchain-demo
+cd BlockchainOnNode
 npm install
 ```
 Run the server:
